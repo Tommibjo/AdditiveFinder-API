@@ -4,10 +4,9 @@ Spring boot RESTful service.
 Pystyy vastaanottamaan ja lähettämään JSON dataa (HTTP Metodien avulla). 
 Käyttää Spring CrudRepository:ä MYSQL tietokannan datan käsittelyyn.
 
-Tarkoituksena luoda vielä API:n selainpohjaiseen käytötliittymään mahdollisuus lisätä yksittäisiä lisäaine "vastaavuuksia" haluttaessa. Todennäköisesti lisään vielä vastaavanlaisen toiminnon itse AdditiveFinder Android sovellukseen.  Tällä hetkellä työn alla on kuitenkin ominaisuus, jonka avulla "vastaavuudet voidaan ajaa massa-ajona MySQL tietokantaan, excel tiedostosta: 
+Tarkoituksena luoda vielä API:n selainpohjaiseen käytötliittymään mahdollisuus lisätä yksittäisiä lisäaine "vastaavuuksia" haluttaessa. Todennäköisesti lisään vielä vastaavanlaisen toiminnon itse AdditiveFinder Android sovellukseen.  Tällä hetkellä työn alla on kuitenkin ominaisuus, jonka avulla "vastaavuudet voidaan ajaa massa-ajona MySQL tietokantaan, excel tiedostosta (<i>Tämä sen vuoksi, että saan MySQL tietokannan täytettyä helposti. Vastaavuuksia on useita. </i>): 
 
-![alt text](https://i.imgur.com/eP7zMsM.png) </br>
-<i>Tämä sen vuoksi, että saan MySQL tietokannan täytettyä helposti. Vastaavuuksia on useita. </i>
+![alt text](https://i.imgur.com/eP7zMsM.png) 
 
 
 "Vastaavuudella" tarkoitan yhtä Json objectia, joka sisältää Elgan tuotenimikkeen nimen ja kilpailijan nimen.
