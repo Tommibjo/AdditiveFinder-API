@@ -4,7 +4,7 @@ Spring boot RESTful service.
 Pystyy vastaanottamaan ja lähettämään JSON dataa (HTTP Metodien avulla). 
 Käyttää Spring CrudRepository:ä MYSQL tietokannan datan käsittelyyn.
 
-Tällä hetkellä työn alla ominaisuus, jonka avulla "vastaavuudet" voitaisiin ajaa MySQL tietokantaan, excel tiedostosta. 
+Tällä hetkellä työn alla ominaisuus, jonka avulla "vastaavuudet" voitaisiin ajaa MySQL tietokantaan, excel tiedostosta: 
 
 ![alt text](https://i.imgur.com/eP7zMsM.png)
 
