@@ -6,7 +6,7 @@ Käyttää Spring CrudRepository:ä MYSQL tietokannan datan käsittelyyn.
 
 Tarkoituksena luoda vielä API:n selainpohjaiseen käytötliittymään mahdollisuus lisätä yksittäisiä lisäaine "vastaavuuksia" haluttaessa. Todennäköisesti lisään vielä vastaavanlaisen toiminnon itse AdditiveFinder Android sovellukseen.  Tällä hetkellä työn alla on kuitenkin ominaisuus, jonka avulla "vastaavuudet voidaan ajaa massa-ajona MySQL tietokantaan, excel tiedostosta: 
 
-![alt text](https://i.imgur.com/eP7zMsM.png)
+![alt text](https://i.imgur.com/eP7zMsM.png) </br>
 <i>Tämä sen vuoksi, että saan MySQL tietokannan täytettyä helposti. Vastaavuuksia on useita. </i>
 
 
